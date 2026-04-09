@@ -278,7 +278,7 @@ mnemosyne/
 
 ## SpecBench Connection
 
-This project applies insights from [SpecBench](link-to-specbench):
+This project applies insights from [SpecBench](https://github.com/Regata3010/speculative-decoding):
 
 > "SpecBench taught me quantization. Mnemosyne applies it."
 
